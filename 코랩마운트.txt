@@ -1,0 +1,12 @@
+아나콘다 주피터노트북
+
+코랩 마운트,
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+df = pd.read_csv('/content/drive/MyDrive/Colab Notebooks/iris.csv', index_col=0)
+df  //경로 신경 쓸것!!
+
+파일 경로 :  /content/drive/MyDrive/Colab Notebooks/iris.csv 
+
